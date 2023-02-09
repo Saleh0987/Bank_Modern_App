@@ -1,6 +1,6 @@
 # Fully Responsive Website with Modern UI/UX
 
-## using
+## technologies
 - reactjs
 - vitejs
 - tailwindcss
